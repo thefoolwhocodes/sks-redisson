@@ -1,0 +1,11 @@
+single_server_redis = true
+redis_service_uri = redis://localhost:6379
+redis_cluster_scan_interval = 2000
+redis_master_connection_pool_size = 1
+redis_master_idle_connection_pool_size = 1
+redis_subscription_connection_pool_size = 100
+redis_subscription_idle_connection_pool_size = 50
+redis_subscriptions_per_connection = 5
+redis_connection_timeout = 10000
+redis_num_retries = 10
+redis_retry_interval = 3000
