@@ -1,5 +1,7 @@
 package com.sks.distributedobjects;
 
+import com.sks.common.RedisClientProvider;
+
 import org.redisson.api.RBucket;
 import org.redisson.api.RedissonClient;
 
