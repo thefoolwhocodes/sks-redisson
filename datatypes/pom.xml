@@ -17,8 +17,8 @@
   <dependencies>
     <dependency>
       <groupId>org.redisson</groupId>
-      <artifactId>redisson</artifactId>
-      <version>3.9.0</version>
+      <artifactId>redisson-all</artifactId>
+      <version>3.11.4</version>
     </dependency>
     <dependency>
       <groupId>com.sks</groupId>
